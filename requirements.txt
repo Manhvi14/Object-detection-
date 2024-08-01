@@ -14,3 +14,5 @@ pandas>=1.1.4
 seaborn>=0.11.0
 ultralytics
 ultralytics-thop>=2.0.0
+opencv-python
+
